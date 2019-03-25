@@ -1,0 +1,122 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\ed\desktop\ray-tracing\perlin.h(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ed\desktop\ray-tracing\perlin.h(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ed\desktop\ray-tracing\perlin.h(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ed\desktop\ray-tracing\perlin.h(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\texture.h(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\material.h(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\material.h(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\hitable_list.h(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\aarect.h(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\aarect.h(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\aarect.h(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\stb_image.h(964): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1033): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1082): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1104): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1330): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1368): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(1388): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(3297): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(3325): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(3343): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4457): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4585): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4591): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4599): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4601): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4609): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4644): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4647): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4674): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4677): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4688): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4726): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4904): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4925): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(4930): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5062): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5066): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5074): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5082): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5095): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5112): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5116): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5258): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5286): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5297): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5298): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5312): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5331): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5349): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5360): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5369): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5396): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5397): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5611): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5615): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5620): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5631): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5660): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5667): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5684): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5714): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5747): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5860): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5869): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5874): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5878): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(5927): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\ed\desktop\ray-tracing\stb_image.h(6142): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\ed\desktop\ray-tracing\main.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(81): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(162): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(172): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(173): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(200): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(201): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(202): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(212): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(213): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(222): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(249): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(251): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(254): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(256): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(261): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(276): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(277): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(278): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(280): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(289): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(315): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(319): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(328): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(333): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(334): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(335): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(358): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(365): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(366): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(367): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(377): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(385): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(462): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\ray-tracing\main.cpp(518): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ed\desktop\ray-tracing\main.cpp(537): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ed\desktop\ray-tracing\texture.h(61): warning C4715: 'noise_texture::value': not all control paths return a value
+  Project9.vcxproj -> C:\Users\Ed\Desktop\Ray-tracing\x64\Debug\Ray-tracer.exe

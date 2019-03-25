@@ -1,0 +1,29 @@
+﻿  main.cc
+c:\users\ed\documents\visual studio 2017\projects\project9\hitable_list.h(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\camera.h(8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\camera.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\material.h(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\material.h(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\material.h(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(15): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(28): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(41): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(58): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(73): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(74): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(75): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(77): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ed\documents\visual studio 2017\projects\project9\main.cc(84): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project9.vcxproj -> C:\Users\Ed\Documents\Visual Studio 2017\Projects\Project9\Debug\Project9.exe

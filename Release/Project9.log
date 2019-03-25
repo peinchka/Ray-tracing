@@ -1,0 +1,20 @@
+﻿  Source 4.cpp
+c:\users\ed\documents\visual studio 2017\projects\project9\hitable_list.h(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\material.h(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\material.h(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\documents\visual studio 2017\projects\project9\camera.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source 4.cpp(16): warning C4305: 'argument': truncation from 'double' to 'float'
+Source 4.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+Source 4.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+Source 4.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+Source 4.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source 4.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source 4.cpp(82): warning C4305: 'argument': truncation from 'double' to 'float'
+Source 4.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source 4.cpp(127): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  181 of 187 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    55 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project9.vcxproj -> C:\Users\Ed\Documents\Visual Studio 2017\Projects\Project9\Release\Project9.exe
